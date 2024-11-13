@@ -137,13 +137,5 @@ function renovar_token() {
 
 }
 
-// // Exemplo de utilização
-// //$access_token = obter_access_token();
-// echo "Access token: $access_token\n";
-// if ($access_token) {
-//   //  verificar_validade_token($access_token);
-// } else {
-//  //   echo "Erro: Token de acesso não encontrado.";
-// }
 
 ?>
